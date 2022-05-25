@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 May 2022 19:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 18:27:50 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/OUA-lwYxtpw/default.jpg</url>
@@ -75,7 +75,7 @@ LETTERS TO A DEAD FRIEND ABOUT ZEN audiobook - https://www.audible.com/pd/Letter
 My other audiobooks - https://www.audible.com/search?keywor...
 My blog  - http://hardcorezen.info
 Write me at bw@hardcorezen.info]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/OF3sKY1kv6U/hqdefault.jpg"></itunes:image>
+      <itunes:image href="https://i.ytimg.com/vi/OF3sKY1kv6U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>3</itunes:order>
@@ -1027,41 +1027,6 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:duration>15:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>50</itunes:order>
-    </item>
-    <item>
-      <guid>MxVC6voNWBw</guid>
-      <title>Elvis 92 Trailer FINAL 4</title>
-      <link>https://youtube.com/watch?v=MxVC6voNWBw</link>
-      <description>I edited this trailer for my friend Bob Richey&#39;s film &#34;This is Elvis&#39; Birthday &#39;92 With Mike Hudson.&#34; It&#39;s a funny movie.</description>
-      <pubDate>Fri, 04 Mar 2022 20:53:48 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/MxVC6voNWBw.mp3" length="1407165" type="audio/mpeg"></enclosure>
-      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
-      <itunes:subtitle>Elvis 92 Trailer FINAL 4</itunes:subtitle>
-      <itunes:summary><![CDATA[I edited this trailer for my friend Bob Richey's film "This is Elvis' Birthday '92 With Mike Hudson." It's a funny movie.]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/MxVC6voNWBw/hqdefault.jpg"></itunes:image>
-      <itunes:duration>2:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>51</itunes:order>
-    </item>
-    <item>
-      <guid>eGvKUrvaFUY</guid>
-      <title>The Cockroaches of the Mind</title>
-      <link>https://youtube.com/watch?v=eGvKUrvaFUY</link>
-      <description>Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;LETTERS TO A DEAD FRIEND ABOUT ZEN audiobook - https://www.audible.com/pd/Letters-to-a-Dead-Friend-About-Zen-Audiobook/B081J5WM8F?qid=1637091907&amp;sr=1-1&amp;ref=a_search_c3_lProduct_1_1&amp;pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&amp;pf_rd_r=4CP8P80399D73MQKC7PH&#xA;My other audiobooks - https://www.audible.com/search?keywor...&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info</description>
-      <pubDate>Fri, 04 Mar 2022 20:05:50 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/eGvKUrvaFUY.mp3" length="9163125" type="audio/mpeg"></enclosure>
-      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
-      <itunes:subtitle>The Cockroaches of the Mind</itunes:subtitle>
-      <itunes:summary><![CDATA[Donate by PayPal - http://hardcorezen.info/donate
-My Patreon page - https://www.patreon.com/user?u=4874189
-LETTERS TO A DEAD FRIEND ABOUT ZEN audiobook - https://www.audible.com/pd/Letters-to-a-Dead-Friend-About-Zen-Audiobook/B081J5WM8F?qid=1637091907&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=4CP8P80399D73MQKC7PH
-My other audiobooks - https://www.audible.com/search?keywor...
-My blog  - http://hardcorezen.info
-Write me at bw@hardcorezen.info]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/eGvKUrvaFUY/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>11:19</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>52</itunes:order>
     </item>
   </channel>
 </rss>

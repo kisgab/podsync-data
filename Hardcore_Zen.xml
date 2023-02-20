@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Feb 2023 11:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2023 11:20:46 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/bNP4bJqPTJI/maxresdefault.jpg</url>
@@ -20,6 +20,41 @@
     <itunes:image href="https://i.ytimg.com/vi/bNP4bJqPTJI/maxresdefault.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>bNP4bJqPTJI</guid>
+      <title>Buddhism is Not Idealism</title>
+      <link>https://youtube.com/watch?v=bNP4bJqPTJI</link>
+      <description>Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;LETTERS TO A DEAD FRIEND ABOUT ZEN audiobook - https://www.audible.com/pd/Letters-to-a-Dead-Friend-About-Zen-Audiobook/B081J5WM8F?qid=1637091907&amp;sr=1-1&amp;ref=a_search_c3_lProduct_1_1&amp;pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&amp;pf_rd_r=4CP8P80399D73MQKC7PH&#xA;My other audiobooks - https://www.audible.com/search?keywords=brad+warner&amp;ref-override=a_search_t1_header_search&amp;ref=nb_sb_ss_i_1_11&amp;k=brad+warner&amp;crid=1IHW7QAIT5K83&amp;sprefix=brad+warner%2Cna-audible-us%2C109&amp;i=na-audible-us&amp;url=search-alias%3Dna-audible-us&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info</description>
+      <pubDate>Thu, 16 Feb 2023 21:21:58 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/bNP4bJqPTJI.mp3" length="13425189" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>Buddhism is Not Idealism</itunes:subtitle>
+      <itunes:summary><![CDATA[Donate by PayPal - http://hardcorezen.info/donate
+My Patreon page - https://www.patreon.com/user?u=4874189
+LETTERS TO A DEAD FRIEND ABOUT ZEN audiobook - https://www.audible.com/pd/Letters-to-a-Dead-Friend-About-Zen-Audiobook/B081J5WM8F?qid=1637091907&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=4CP8P80399D73MQKC7PH
+My other audiobooks - https://www.audible.com/search?keywords=brad+warner&ref-override=a_search_t1_header_search&ref=nb_sb_ss_i_1_11&k=brad+warner&crid=1IHW7QAIT5K83&sprefix=brad+warner%2Cna-audible-us%2C109&i=na-audible-us&url=search-alias%3Dna-audible-us
+My blog  - http://hardcorezen.info
+Write me at bw@hardcorezen.info]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/bNP4bJqPTJI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>18:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
+      <guid>Yw01-2vHe64</guid>
+      <title>Mesmerized by Dimentia 13</title>
+      <link>https://youtube.com/watch?v=Yw01-2vHe64</link>
+      <description>A new recording of the first song from the second Dimentia 13 album Mirror Mind.</description>
+      <pubDate>Thu, 16 Feb 2023 20:00:00 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/Yw01-2vHe64.mp3" length="3065565" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>Mesmerized by Dimentia 13</itunes:subtitle>
+      <itunes:summary><![CDATA[A new recording of the first song from the second Dimentia 13 album Mirror Mind.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Yw01-2vHe64/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>3:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>2</itunes:order>
+    </item>
     <item>
       <guid>ZqzCp5NyzxY</guid>
       <title>This Very Mind This Very Buddha</title>

@@ -7,19 +7,39 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2023 16:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2023 16:58:21 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
-      <url>https://i.ytimg.com/vi/UkN45V65a4o/maxresdefault.jpg</url>
+      <url>https://i.ytimg.com/vi/jNRXwjNl0vE/maxresdefault.jpg</url>
       <title>Hardcore Zen: Uploads from Hardcore Zen</title>
       <link>https://youtube.com/playlist?list=UUav0RPngCHFrVUl8iGxnilw</link>
     </image>
     <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
     <itunes:subtitle>Hardcore Zen: Uploads from Hardcore Zen</itunes:subtitle>
     <itunes:summary><![CDATA[Hardcore Zen: Uploads from Hardcore Zen (2020-02-23 08:00:00 +0000 UTC)]]></itunes:summary>
-    <itunes:image href="https://i.ytimg.com/vi/UkN45V65a4o/maxresdefault.jpg"></itunes:image>
+    <itunes:image href="https://i.ytimg.com/vi/jNRXwjNl0vE/maxresdefault.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>jNRXwjNl0vE</guid>
+      <title>Primordial Ignorance</title>
+      <link>https://youtube.com/watch?v=jNRXwjNl0vE</link>
+      <description>Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;LETTERS TO A DEAD FRIEND ABOUT ZEN audiobook - https://www.audible.com/pd/Letters-to-a-Dead-Friend-About-Zen-Audiobook/B081J5WM8F?qid=1637091907&amp;sr=1-1&amp;ref=a_search_c3_lProduct_1_1&amp;pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&amp;pf_rd_r=4CP8P80399D73MQKC7PH&#xA;My other audiobooks - https://www.audible.com/search?keywords=brad+warner&amp;ref-override=a_search_t1_header_search&amp;ref=nb_sb_ss_i_1_11&amp;k=brad+warner&amp;crid=1IHW7QAIT5K83&amp;sprefix=brad+warner%2Cna-audible-us%2C109&amp;i=na-audible-us&amp;url=search-alias%3Dna-audible-us&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info</description>
+      <pubDate>Wed, 21 Jun 2023 17:00:28 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/jNRXwjNl0vE.mp3" length="17016357" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>Primordial Ignorance</itunes:subtitle>
+      <itunes:summary><![CDATA[Donate by PayPal - http://hardcorezen.info/donate
+My Patreon page - https://www.patreon.com/user?u=4874189
+LETTERS TO A DEAD FRIEND ABOUT ZEN audiobook - https://www.audible.com/pd/Letters-to-a-Dead-Friend-About-Zen-Audiobook/B081J5WM8F?qid=1637091907&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=4CP8P80399D73MQKC7PH
+My other audiobooks - https://www.audible.com/search?keywords=brad+warner&ref-override=a_search_t1_header_search&ref=nb_sb_ss_i_1_11&k=brad+warner&crid=1IHW7QAIT5K83&sprefix=brad+warner%2Cna-audible-us%2C109&i=na-audible-us&url=search-alias%3Dna-audible-us
+My blog  - http://hardcorezen.info
+Write me at bw@hardcorezen.info]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/jNRXwjNl0vE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>19:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>UkN45V65a4o</guid>
       <title>Hallucinations &amp; Fires During Zazen</title>
@@ -38,7 +58,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/UkN45V65a4o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>edne48saW-M</guid>
@@ -59,7 +79,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/edne48saW-M/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>Mt55_EMTN48</guid>
@@ -74,7 +94,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Mt55_EMTN48/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>4ArDoHcUm2k</guid>
@@ -94,7 +114,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/4ArDoHcUm2k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>13:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>iOnQmWQEQHs</guid>
@@ -114,7 +134,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/iOnQmWQEQHs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>i9_3HNGHgtU</guid>
@@ -134,7 +154,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/i9_3HNGHgtU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>VJOfCglo6DY</guid>
@@ -149,7 +169,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/VJOfCglo6DY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>AmtZXYphmPQ</guid>
@@ -164,7 +184,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/AmtZXYphmPQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>3JzlKvjkuIo</guid>
@@ -184,7 +204,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/3JzlKvjkuIo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>D82y7mHfwy4</guid>
@@ -204,7 +224,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/D82y7mHfwy4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>wpVtATzHlmw</guid>
@@ -219,7 +239,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/wpVtATzHlmw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
     <item>
       <guid>unYWVKIJE2o</guid>
@@ -239,7 +259,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/unYWVKIJE2o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>16:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>_KJ3iUuXfqw</guid>
@@ -254,7 +274,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/_KJ3iUuXfqw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>SukbZpotdsU</guid>
@@ -269,7 +289,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/SukbZpotdsU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>Pa8vZu2voQk</guid>
@@ -289,7 +309,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Pa8vZu2voQk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>UVj_1wJwpAk</guid>
@@ -309,7 +329,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/UVj_1wJwpAk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
     </item>
     <item>
       <guid>BsO8hpuR6H0</guid>
@@ -330,7 +350,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/BsO8hpuR6H0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
     </item>
     <item>
       <guid>hmhCJO3Z6XY</guid>
@@ -345,7 +365,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/hmhCJO3Z6XY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
     </item>
     <item>
       <guid>RKGuMAN-Doc</guid>
@@ -365,7 +385,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/RKGuMAN-Doc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>20</itunes:order>
     </item>
     <item>
       <guid>Sg99ZWkzSuc</guid>
@@ -380,7 +400,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Sg99ZWkzSuc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>21</itunes:order>
     </item>
     <item>
       <guid>GAA0GDg4FSg</guid>
@@ -400,7 +420,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/GAA0GDg4FSg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>22</itunes:order>
     </item>
     <item>
       <guid>liu6RXEGPFw</guid>
@@ -420,7 +440,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/liu6RXEGPFw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>22</itunes:order>
+      <itunes:order>23</itunes:order>
     </item>
     <item>
       <guid>zqLPvFRgSzI</guid>
@@ -435,7 +455,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/zqLPvFRgSzI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>23</itunes:order>
+      <itunes:order>24</itunes:order>
     </item>
     <item>
       <guid>w4kA9arpl_s</guid>
@@ -450,7 +470,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/w4kA9arpl_s/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>24</itunes:order>
+      <itunes:order>25</itunes:order>
     </item>
     <item>
       <guid>x9j5LI-6eEo</guid>
@@ -465,7 +485,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/x9j5LI-6eEo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>25</itunes:order>
+      <itunes:order>26</itunes:order>
     </item>
     <item>
       <guid>CDqspO6v-pc</guid>
@@ -486,7 +506,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/CDqspO6v-pc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>26:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>26</itunes:order>
+      <itunes:order>27</itunes:order>
     </item>
     <item>
       <guid>Cl9nX1bD3_A</guid>
@@ -501,7 +521,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Cl9nX1bD3_A/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>27</itunes:order>
+      <itunes:order>28</itunes:order>
     </item>
     <item>
       <guid>pMyhZgXUEdY</guid>
@@ -516,7 +536,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/pMyhZgXUEdY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>28</itunes:order>
+      <itunes:order>29</itunes:order>
     </item>
     <item>
       <guid>F_BNsuJJrFw</guid>
@@ -536,7 +556,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/F_BNsuJJrFw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>29</itunes:order>
+      <itunes:order>30</itunes:order>
     </item>
     <item>
       <guid>uGxiehWMAZE</guid>
@@ -551,7 +571,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/uGxiehWMAZE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>30</itunes:order>
+      <itunes:order>31</itunes:order>
     </item>
     <item>
       <guid>3Q6DUIuRGhI</guid>
@@ -572,7 +592,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/3Q6DUIuRGhI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>31</itunes:order>
+      <itunes:order>32</itunes:order>
     </item>
     <item>
       <guid>0f5sTp1SMbs</guid>
@@ -593,7 +613,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/0f5sTp1SMbs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>32</itunes:order>
+      <itunes:order>33</itunes:order>
     </item>
     <item>
       <guid>LuLZKxI7_vY</guid>
@@ -608,7 +628,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/LuLZKxI7_vY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>33</itunes:order>
+      <itunes:order>34</itunes:order>
     </item>
     <item>
       <guid>VdgZn_kDKf4</guid>
@@ -629,7 +649,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/VdgZn_kDKf4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>34</itunes:order>
+      <itunes:order>35</itunes:order>
     </item>
     <item>
       <guid>NIsv4y7z51k</guid>
@@ -649,7 +669,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/NIsv4y7z51k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>35</itunes:order>
+      <itunes:order>36</itunes:order>
     </item>
     <item>
       <guid>LQEsK3BUVrU</guid>
@@ -670,7 +690,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/LQEsK3BUVrU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>36</itunes:order>
+      <itunes:order>37</itunes:order>
     </item>
     <item>
       <guid>Otqgm2jOb2E</guid>
@@ -685,7 +705,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Otqgm2jOb2E/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>37</itunes:order>
+      <itunes:order>38</itunes:order>
     </item>
     <item>
       <guid>ZjUXXXgMWYo</guid>
@@ -705,7 +725,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZjUXXXgMWYo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>38</itunes:order>
+      <itunes:order>39</itunes:order>
     </item>
     <item>
       <guid>Tret0UkpWbo</guid>
@@ -720,7 +740,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Tret0UkpWbo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>39</itunes:order>
+      <itunes:order>40</itunes:order>
     </item>
     <item>
       <guid>jf0Dnaaoe4o</guid>
@@ -740,7 +760,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/jf0Dnaaoe4o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>40</itunes:order>
+      <itunes:order>41</itunes:order>
     </item>
     <item>
       <guid>fvu4yinOffM</guid>
@@ -755,7 +775,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/fvu4yinOffM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>41</itunes:order>
+      <itunes:order>42</itunes:order>
     </item>
     <item>
       <guid>WLnR7aX8M9M</guid>
@@ -776,7 +796,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/WLnR7aX8M9M/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>42</itunes:order>
+      <itunes:order>43</itunes:order>
     </item>
     <item>
       <guid>AHBtjnjLvgU</guid>
@@ -791,7 +811,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/AHBtjnjLvgU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>43</itunes:order>
+      <itunes:order>44</itunes:order>
     </item>
     <item>
       <guid>wjkgFoAUbZU</guid>
@@ -811,7 +831,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/wjkgFoAUbZU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>44</itunes:order>
+      <itunes:order>45</itunes:order>
     </item>
     <item>
       <guid>QM6PV9NKlZM</guid>
@@ -826,7 +846,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/QM6PV9NKlZM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>45</itunes:order>
+      <itunes:order>46</itunes:order>
     </item>
     <item>
       <guid>_ncQ9SXgDFs</guid>
@@ -846,7 +866,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/_ncQ9SXgDFs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>46</itunes:order>
+      <itunes:order>47</itunes:order>
     </item>
     <item>
       <guid>71dLA0tHjHU</guid>
@@ -867,7 +887,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/71dLA0tHjHU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>47</itunes:order>
+      <itunes:order>48</itunes:order>
     </item>
     <item>
       <guid>_QqxQS10Yw4</guid>
@@ -882,7 +902,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/_QqxQS10Yw4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>48</itunes:order>
+      <itunes:order>49</itunes:order>
     </item>
     <item>
       <guid>DwDOZZlnE2o</guid>
@@ -897,7 +917,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/DwDOZZlnE2o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>49</itunes:order>
+      <itunes:order>50</itunes:order>
     </item>
     <item>
       <guid>QVecpQUAkCg</guid>
@@ -912,7 +932,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/QVecpQUAkCg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>50</itunes:order>
+      <itunes:order>51</itunes:order>
     </item>
     <item>
       <guid>NLfeIpDcfyM</guid>
@@ -932,7 +952,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/NLfeIpDcfyM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>51</itunes:order>
+      <itunes:order>52</itunes:order>
     </item>
     <item>
       <guid>XGBfrg788Aw</guid>
@@ -952,7 +972,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/XGBfrg788Aw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>52</itunes:order>
+      <itunes:order>53</itunes:order>
     </item>
     <item>
       <guid>773gGqGO2l4</guid>
@@ -972,7 +992,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/773gGqGO2l4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>53</itunes:order>
+      <itunes:order>54</itunes:order>
     </item>
     <item>
       <guid>psWE6TvKirs</guid>
@@ -987,7 +1007,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/psWE6TvKirs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>54</itunes:order>
+      <itunes:order>55</itunes:order>
     </item>
     <item>
       <guid>36e-EWy-8LA</guid>
@@ -1007,7 +1027,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/36e-EWy-8LA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>55</itunes:order>
+      <itunes:order>56</itunes:order>
     </item>
     <item>
       <guid>T4f-ATvC8bY</guid>
@@ -1022,7 +1042,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/T4f-ATvC8bY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>56</itunes:order>
+      <itunes:order>57</itunes:order>
     </item>
     <item>
       <guid>mm_A046cOrU</guid>
@@ -1037,7 +1057,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/mm_A046cOrU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>57</itunes:order>
+      <itunes:order>58</itunes:order>
     </item>
     <item>
       <guid>bNP4bJqPTJI</guid>
@@ -1057,7 +1077,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/bNP4bJqPTJI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>58</itunes:order>
+      <itunes:order>59</itunes:order>
     </item>
     <item>
       <guid>Yw01-2vHe64</guid>
@@ -1072,7 +1092,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Yw01-2vHe64/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>59</itunes:order>
+      <itunes:order>60</itunes:order>
     </item>
     <item>
       <guid>ZqzCp5NyzxY</guid>
@@ -1092,7 +1112,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZqzCp5NyzxY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>60</itunes:order>
+      <itunes:order>61</itunes:order>
     </item>
     <item>
       <guid>8bO5E7u8yC8</guid>
@@ -1112,7 +1132,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/8bO5E7u8yC8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>61</itunes:order>
+      <itunes:order>62</itunes:order>
     </item>
     <item>
       <guid>FgIU1848-gY</guid>
@@ -1127,7 +1147,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/FgIU1848-gY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>62</itunes:order>
+      <itunes:order>63</itunes:order>
     </item>
     <item>
       <guid>PGoVklC8pz4</guid>
@@ -1147,7 +1167,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/PGoVklC8pz4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>63</itunes:order>
+      <itunes:order>64</itunes:order>
     </item>
     <item>
       <guid>OCsKv9WljeA</guid>
@@ -1162,7 +1182,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/OCsKv9WljeA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>64</itunes:order>
+      <itunes:order>65</itunes:order>
     </item>
     <item>
       <guid>OmB2IoislEk</guid>
@@ -1182,7 +1202,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/OmB2IoislEk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>65</itunes:order>
+      <itunes:order>66</itunes:order>
     </item>
     <item>
       <guid>zaHpsjbKmdI</guid>
@@ -1197,7 +1217,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/zaHpsjbKmdI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>66</itunes:order>
+      <itunes:order>67</itunes:order>
     </item>
     <item>
       <guid>WoS4rneXqIE</guid>
@@ -1217,7 +1237,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/WoS4rneXqIE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>67</itunes:order>
+      <itunes:order>68</itunes:order>
     </item>
     <item>
       <guid>I7p-A8jvTmA</guid>
@@ -1237,7 +1257,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/I7p-A8jvTmA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>68</itunes:order>
+      <itunes:order>69</itunes:order>
     </item>
     <item>
       <guid>XpHZLUwEsGE</guid>
@@ -1253,7 +1273,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/XpHZLUwEsGE/hqdefault.jpg"></itunes:image>
       <itunes:duration>4:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>69</itunes:order>
+      <itunes:order>70</itunes:order>
     </item>
     <item>
       <guid>-tSC5laPXbQ</guid>
@@ -1273,7 +1293,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/-tSC5laPXbQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>70</itunes:order>
+      <itunes:order>71</itunes:order>
     </item>
     <item>
       <guid>brLGjFXfX4k</guid>
@@ -1288,7 +1308,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/brLGjFXfX4k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>71</itunes:order>
+      <itunes:order>72</itunes:order>
     </item>
     <item>
       <guid>UDQkW-sqv3U</guid>
@@ -1308,7 +1328,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/UDQkW-sqv3U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>72</itunes:order>
+      <itunes:order>73</itunes:order>
     </item>
     <item>
       <guid>AjbIZy9mMJ0</guid>
@@ -1323,7 +1343,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/AjbIZy9mMJ0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>73</itunes:order>
+      <itunes:order>74</itunes:order>
     </item>
     <item>
       <guid>HwA-PkYk-xk</guid>
@@ -1343,7 +1363,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/HwA-PkYk-xk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>74</itunes:order>
+      <itunes:order>75</itunes:order>
     </item>
     <item>
       <guid>usxtP1ceO3w</guid>
@@ -1363,7 +1383,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/usxtP1ceO3w/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>75</itunes:order>
+      <itunes:order>76</itunes:order>
     </item>
     <item>
       <guid>nKwiFSuYqVs</guid>
@@ -1383,7 +1403,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/nKwiFSuYqVs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>76</itunes:order>
+      <itunes:order>77</itunes:order>
     </item>
     <item>
       <guid>L1HLilyjOdU</guid>
@@ -1398,7 +1418,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/L1HLilyjOdU/hqdefault.jpg"></itunes:image>
       <itunes:duration>2:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>77</itunes:order>
+      <itunes:order>78</itunes:order>
     </item>
     <item>
       <guid>AmI-1PvxnBk</guid>
@@ -1418,7 +1438,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/AmI-1PvxnBk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>78</itunes:order>
+      <itunes:order>79</itunes:order>
     </item>
     <item>
       <guid>ajvRZfldozo</guid>
@@ -1437,7 +1457,7 @@ Steve McKee: Drums]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ajvRZfldozo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>79</itunes:order>
+      <itunes:order>80</itunes:order>
     </item>
     <item>
       <guid>8b71BMphi2Q</guid>
@@ -1458,7 +1478,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/8b71BMphi2Q/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>80</itunes:order>
+      <itunes:order>81</itunes:order>
     </item>
     <item>
       <guid>Rd0E44zcpFQ</guid>
@@ -1479,7 +1499,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Rd0E44zcpFQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>81</itunes:order>
+      <itunes:order>82</itunes:order>
     </item>
     <item>
       <guid>3xF5jFIIukY</guid>
@@ -1499,7 +1519,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/3xF5jFIIukY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>82</itunes:order>
+      <itunes:order>83</itunes:order>
     </item>
     <item>
       <guid>m2NfbqSYf7g</guid>
@@ -1520,7 +1540,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/m2NfbqSYf7g/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>83</itunes:order>
+      <itunes:order>84</itunes:order>
     </item>
     <item>
       <guid>l7NR7XrQZZc</guid>
@@ -1540,7 +1560,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/l7NR7XrQZZc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>84</itunes:order>
+      <itunes:order>85</itunes:order>
     </item>
     <item>
       <guid>ZBp_VE3qpbo</guid>
@@ -1560,7 +1580,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZBp_VE3qpbo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>85</itunes:order>
+      <itunes:order>86</itunes:order>
     </item>
     <item>
       <guid>mb01cwY6qrc</guid>
@@ -1580,7 +1600,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/mb01cwY6qrc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>16:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>86</itunes:order>
+      <itunes:order>87</itunes:order>
     </item>
     <item>
       <guid>YfRN2bLKjlc</guid>
@@ -1602,7 +1622,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/YfRN2bLKjlc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>87</itunes:order>
+      <itunes:order>88</itunes:order>
     </item>
     <item>
       <guid>mqi6js5jssw</guid>
@@ -1622,7 +1642,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/mqi6js5jssw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>88</itunes:order>
+      <itunes:order>89</itunes:order>
     </item>
     <item>
       <guid>9vbKNC4xNjw</guid>
@@ -1642,7 +1662,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/9vbKNC4xNjw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>89</itunes:order>
+      <itunes:order>90</itunes:order>
     </item>
     <item>
       <guid>GyjwAoXyPbE</guid>
@@ -1662,7 +1682,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/GyjwAoXyPbE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>90</itunes:order>
+      <itunes:order>91</itunes:order>
     </item>
     <item>
       <guid>gND_agRQmbQ</guid>
@@ -1682,7 +1702,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/gND_agRQmbQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>91</itunes:order>
+      <itunes:order>92</itunes:order>
     </item>
     <item>
       <guid>IMCNpBhIqc4</guid>
@@ -1702,7 +1722,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/IMCNpBhIqc4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>92</itunes:order>
+      <itunes:order>93</itunes:order>
     </item>
     <item>
       <guid>8v4_ACsMIKk</guid>
@@ -1722,7 +1742,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/8v4_ACsMIKk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>93</itunes:order>
+      <itunes:order>94</itunes:order>
     </item>
     <item>
       <guid>rjXdvib_qCU</guid>
@@ -1742,7 +1762,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/rjXdvib_qCU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>94</itunes:order>
+      <itunes:order>95</itunes:order>
     </item>
     <item>
       <guid>7JFepSdVuQs</guid>
@@ -1762,7 +1782,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/7JFepSdVuQs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>95</itunes:order>
+      <itunes:order>96</itunes:order>
     </item>
     <item>
       <guid>P6h7c-VD2L4</guid>
@@ -1782,7 +1802,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/P6h7c-VD2L4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>13:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>96</itunes:order>
+      <itunes:order>97</itunes:order>
     </item>
     <item>
       <guid>8VMqXR7_y90</guid>
@@ -1802,7 +1822,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/8VMqXR7_y90/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>97</itunes:order>
+      <itunes:order>98</itunes:order>
     </item>
     <item>
       <guid>n0C0pSeXzuw</guid>
@@ -1822,7 +1842,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/n0C0pSeXzuw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>98</itunes:order>
+      <itunes:order>99</itunes:order>
     </item>
     <item>
       <guid>mpAR-AalUhU</guid>
@@ -1844,7 +1864,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/mpAR-AalUhU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>99</itunes:order>
+      <itunes:order>100</itunes:order>
     </item>
     <item>
       <guid>QGnRhfVn91I</guid>
@@ -1865,7 +1885,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/QGnRhfVn91I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>100</itunes:order>
+      <itunes:order>101</itunes:order>
     </item>
     <item>
       <guid>BOumgRHYCeo</guid>
@@ -1885,7 +1905,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/BOumgRHYCeo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>101</itunes:order>
+      <itunes:order>102</itunes:order>
     </item>
     <item>
       <guid>DUMHV50P1vI</guid>
@@ -1907,7 +1927,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/DUMHV50P1vI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>102</itunes:order>
+      <itunes:order>103</itunes:order>
     </item>
     <item>
       <guid>tBn5ER0O5sM</guid>
@@ -1927,7 +1947,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/tBn5ER0O5sM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>103</itunes:order>
+      <itunes:order>104</itunes:order>
     </item>
     <item>
       <guid>ZBikS9u7RAk</guid>
@@ -1947,7 +1967,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZBikS9u7RAk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>104</itunes:order>
+      <itunes:order>105</itunes:order>
     </item>
     <item>
       <guid>SLDF04ljYRQ</guid>
@@ -1967,7 +1987,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/SLDF04ljYRQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>105</itunes:order>
+      <itunes:order>106</itunes:order>
     </item>
     <item>
       <guid>gEwg15duceI</guid>
@@ -1987,7 +2007,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/gEwg15duceI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>14:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>106</itunes:order>
+      <itunes:order>107</itunes:order>
     </item>
     <item>
       <guid>fw0-fFyTeaw</guid>
@@ -2007,7 +2027,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/fw0-fFyTeaw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>107</itunes:order>
+      <itunes:order>108</itunes:order>
     </item>
     <item>
       <guid>MDbYJM4YY2o</guid>
@@ -2027,7 +2047,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/MDbYJM4YY2o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>108</itunes:order>
+      <itunes:order>109</itunes:order>
     </item>
     <item>
       <guid>4ogcG6iQ-7U</guid>
@@ -2047,7 +2067,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/4ogcG6iQ-7U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>109</itunes:order>
+      <itunes:order>110</itunes:order>
     </item>
     <item>
       <guid>u6apcOihQlo</guid>
@@ -2067,7 +2087,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/u6apcOihQlo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>110</itunes:order>
+      <itunes:order>111</itunes:order>
     </item>
     <item>
       <guid>aAKmnuvlIQc</guid>
@@ -2087,7 +2107,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/aAKmnuvlIQc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>14:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>111</itunes:order>
+      <itunes:order>112</itunes:order>
     </item>
     <item>
       <guid>SOLwYGnNXBE</guid>
@@ -2108,7 +2128,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/SOLwYGnNXBE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>112</itunes:order>
+      <itunes:order>113</itunes:order>
     </item>
     <item>
       <guid>gI1PCIl680A</guid>
@@ -2128,7 +2148,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/gI1PCIl680A/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>113</itunes:order>
+      <itunes:order>114</itunes:order>
     </item>
     <item>
       <guid>oGmTDs15H3w</guid>
@@ -2149,7 +2169,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/oGmTDs15H3w/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>114</itunes:order>
+      <itunes:order>115</itunes:order>
     </item>
     <item>
       <guid>76WgKmix6jM</guid>
@@ -2169,7 +2189,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/76WgKmix6jM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>115</itunes:order>
+      <itunes:order>116</itunes:order>
     </item>
     <item>
       <guid>zh8US7i7UWI</guid>
@@ -2190,7 +2210,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/zh8US7i7UWI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>116</itunes:order>
+      <itunes:order>117</itunes:order>
     </item>
     <item>
       <guid>iLlEb0HZdzE</guid>
@@ -2210,7 +2230,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/iLlEb0HZdzE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>117</itunes:order>
+      <itunes:order>118</itunes:order>
     </item>
     <item>
       <guid>Ps4k5gvSsQ8</guid>
@@ -2230,7 +2250,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Ps4k5gvSsQ8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>118</itunes:order>
+      <itunes:order>119</itunes:order>
     </item>
     <item>
       <guid>CcDQtCwWedY</guid>
@@ -2250,7 +2270,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/CcDQtCwWedY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>119</itunes:order>
+      <itunes:order>120</itunes:order>
     </item>
     <item>
       <guid>O0qmBoD_tOI</guid>
@@ -2270,7 +2290,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/O0qmBoD_tOI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>120</itunes:order>
+      <itunes:order>121</itunes:order>
     </item>
     <item>
       <guid>OkkN3PVHZRU</guid>
@@ -2290,7 +2310,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/OkkN3PVHZRU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>121</itunes:order>
+      <itunes:order>122</itunes:order>
     </item>
     <item>
       <guid>OGyrZVD2e2M</guid>
@@ -2310,7 +2330,7 @@ Write me at bw@hardcorezen.info]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/OGyrZVD2e2M/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>122</itunes:order>
+      <itunes:order>123</itunes:order>
     </item>
   </channel>
 </rss>

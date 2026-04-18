@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 22:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 22:11:23 +0000</lastBuildDate>
     <pubDate>Sun, 09 Oct 2011 21:11:57 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/p7PjcTBcET3FI0_RVx-52saSHBnqZnfC7-nHmkK8PQOxrP82C9Vjh-VsmN9VfchE1ppW0TN56A=s800-c-k-c0x00ffffff-no-rj</url>
@@ -21,6 +21,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>-rf0snnFZUw</guid>
+      <title>Euro: mikorra lehetséges? Tényleg jó lenne nekünk? ⎮🎙POGI PODCAST</title>
+      <link>https://youtube.com/watch?v=-rf0snnFZUw</link>
+      <description>Tényleg lehet magyar euró? Mikorra? Milyen előnyei és milyen hátrányai vannak? Ezeket tárgyalja végig Pogátsa Zoltán közgazdász Kántor Endre műsorvezetővel.</description>
+      <pubDate>Sat, 18 Apr 2026 11:15:21 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Pogi/-rf0snnFZUw.mp3" length="40645725" type="audio/mpeg"></enclosure>
+      <itunes:author>Pogátsa Zoltán</itunes:author>
+      <itunes:subtitle>Euro: mikorra lehetséges? Tényleg jó lenne nekünk? ⎮🎙POGI PODCAST</itunes:subtitle>
+      <itunes:summary><![CDATA[Tényleg lehet magyar euró? Mikorra? Milyen előnyei és milyen hátrányai vannak? Ezeket tárgyalja végig Pogátsa Zoltán közgazdász Kántor Endre műsorvezetővel.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/-rf0snnFZUw/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:06:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>zS9KnjxF1_U</guid>
       <title>Joga van tudni, mire készül Peking! ⎮🎙POGI PODCAST Salát Gergellyel</title>
       <link>https://youtube.com/watch?v=zS9KnjxF1_U</link>
@@ -33,7 +48,7 @@
       <itunes:image href="https://i.ytimg.com/vi/zS9KnjxF1_U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:24:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>SpdThU534VY</guid>
@@ -48,7 +63,7 @@
       <itunes:image href="https://i.ytimg.com/vi/SpdThU534VY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>p6R1I5tEai8</guid>
@@ -63,7 +78,7 @@
       <itunes:image href="https://i.ytimg.com/vi/p6R1I5tEai8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>QYwfgFVJN1Q</guid>
@@ -78,7 +93,7 @@
       <itunes:image href="https://i.ytimg.com/vi/QYwfgFVJN1Q/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>eW3HpLYSXgg</guid>
@@ -93,7 +108,7 @@
       <itunes:image href="https://i.ytimg.com/vi/eW3HpLYSXgg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>eChlSbcUK08</guid>
@@ -108,7 +123,7 @@
       <itunes:image href="https://i.ytimg.com/vi/eChlSbcUK08/maxresdefault.jpg"></itunes:image>
       <itunes:duration>54:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>-GODLWs7mJg</guid>
@@ -123,7 +138,7 @@
       <itunes:image href="https://i.ytimg.com/vi/-GODLWs7mJg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:08:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>zLn3cP8vYfs</guid>
@@ -138,7 +153,7 @@
       <itunes:image href="https://i.ytimg.com/vi/zLn3cP8vYfs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>LjIuNyjmGa8</guid>
@@ -153,7 +168,7 @@
       <itunes:image href="https://i.ytimg.com/vi/LjIuNyjmGa8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:07:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>8o99f2W6LpA</guid>
@@ -168,7 +183,7 @@
       <itunes:image href="https://i.ytimg.com/vi/8o99f2W6LpA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:15:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>FY9NtX0tIBg</guid>
@@ -183,7 +198,7 @@
       <itunes:image href="https://i.ytimg.com/vi/FY9NtX0tIBg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
     <item>
       <guid>QRrEcBEHBkM</guid>
@@ -198,7 +213,7 @@
       <itunes:image href="https://i.ytimg.com/vi/QRrEcBEHBkM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>--BJ8k1TqgY</guid>
@@ -214,7 +229,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/--BJ8k1TqgY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:23:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>R7kV0Vdcb2g</guid>
@@ -229,7 +244,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/R7kV0Vdcb2g/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>l100bZZqo5I</guid>
@@ -244,7 +259,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/l100bZZqo5I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:23:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>VC0uWnW0mO0</guid>
@@ -259,7 +274,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/VC0uWnW0mO0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
     </item>
     <item>
       <guid>b44g9-YLGus</guid>
@@ -274,7 +289,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/b44g9-YLGus/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:06:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
     </item>
     <item>
       <guid>5sdvtZsSd68</guid>
@@ -289,7 +304,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/5sdvtZsSd68/hqdefault.jpg"></itunes:image>
       <itunes:duration>39:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
     </item>
     <item>
       <guid>z_hyfUc280Q</guid>
@@ -303,21 +318,6 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:summary><![CDATA[Újabb zuhanás az amerikai demokrácia minőségében, Donald Trump kamu indokokra hivatkozva ki akarja golyózni Jerome Powell FED-elnököt. Mi ezzel a célja? Mi a jegybanki függetlenség? Mi a mögötte lévő megfontolás? Miért problémás elv a jegybank függetlenség? Hogyan dönt a FED a monetáris politikáról? Ezekről beszélget Kántor Bandi és Pogi.]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/z_hyfUc280Q/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:22</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
-    </item>
-    <item>
-      <guid>2z-GMaSQbl8</guid>
-      <title>A centralizáció csapdája ⎪🎙️POGI PODCAST</title>
-      <link>https://youtube.com/watch?v=2z-GMaSQbl8</link>
-      <description>Ahogy Venezuela, Kuba és Irán példája is mutatja, nem vezet gazdasági sikerhez, ha a gazdaság szereplőinek képessé tevése helyett maga a kormányzat akar gazdaságot csinálni. Ez Magyarországon sem sikeres. Erről beszélget KántorBandi és Pogi.</description>
-      <pubDate>Tue, 13 Jan 2026 17:00:06 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Pogi/2z-GMaSQbl8.mp3" length="23972445" type="audio/mpeg"></enclosure>
-      <itunes:author>Pogátsa Zoltán</itunes:author>
-      <itunes:subtitle>A centralizáció csapdája ⎪🎙️POGI PODCAST</itunes:subtitle>
-      <itunes:summary><![CDATA[Ahogy Venezuela, Kuba és Irán példája is mutatja, nem vezet gazdasági sikerhez, ha a gazdaság szereplőinek képessé tevése helyett maga a kormányzat akar gazdaságot csinálni. Ez Magyarországon sem sikeres. Erről beszélget KántorBandi és Pogi.]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/2z-GMaSQbl8/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>38:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>20</itunes:order>
     </item>

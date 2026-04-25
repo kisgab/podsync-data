@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 22:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 22:11:23 +0000</lastBuildDate>
     <pubDate>Sun, 09 Oct 2011 21:11:57 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/p7PjcTBcET3FI0_RVx-52saSHBnqZnfC7-nHmkK8PQOxrP82C9Vjh-VsmN9VfchE1ppW0TN56A=s800-c-k-c0x00ffffff-no-rj</url>
@@ -21,6 +21,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>t88pbuWOz7I</guid>
+      <title>Gigantikus feladatok az oktatásirányításban⎮🎙POGI PODCAST Polónyi Istvánnal</title>
+      <link>https://youtube.com/watch?v=t88pbuWOz7I</link>
+      <description>Iskolarendszeren belüli egyenlőtlenségek csökkentése. Tanszabadság, iskolai autonómia, kutatva tanítás. Tanári bérek rendezése. Felsőoktatás visszaszerzése, depolitizálása. Finanszírozás növelése. Iskolába járási korhatár. Tanárhiány csökkentése. Demográfiai hatások kezelése. Felnőttoktatás, népfőiskolai rendszer. Polónyi István oktatáskutatóval beszélget Pogi az oktatási rendszer előtt álló gigantikus kihívásokról.</description>
+      <pubDate>Sat, 25 Apr 2026 17:00:06 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Pogi/t88pbuWOz7I.mp3" length="42085125" type="audio/mpeg"></enclosure>
+      <itunes:author>Pogátsa Zoltán</itunes:author>
+      <itunes:subtitle>Gigantikus feladatok az oktatásirányításban⎮🎙POGI PODCAST Polónyi Istvánnal</itunes:subtitle>
+      <itunes:summary><![CDATA[Iskolarendszeren belüli egyenlőtlenségek csökkentése. Tanszabadság, iskolai autonómia, kutatva tanítás. Tanári bérek rendezése. Felsőoktatás visszaszerzése, depolitizálása. Finanszírozás növelése. Iskolába járási korhatár. Tanárhiány csökkentése. Demográfiai hatások kezelése. Felnőttoktatás, népfőiskolai rendszer. Polónyi István oktatáskutatóval beszélget Pogi az oktatási rendszer előtt álló gigantikus kihívásokról.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/t88pbuWOz7I/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:13:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>M9nym1dtV54</guid>
       <title>A médiapiac Orbán után ⎮🎙POGI PODCAST Dull Szabolccsal</title>
       <link>https://youtube.com/watch?v=M9nym1dtV54</link>
@@ -33,7 +48,7 @@
       <itunes:image href="https://i.ytimg.com/vi/M9nym1dtV54/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:08:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>-rf0snnFZUw</guid>
@@ -48,7 +63,7 @@
       <itunes:image href="https://i.ytimg.com/vi/-rf0snnFZUw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:06:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>zS9KnjxF1_U</guid>
@@ -63,7 +78,7 @@
       <itunes:image href="https://i.ytimg.com/vi/zS9KnjxF1_U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:24:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>SpdThU534VY</guid>
@@ -78,7 +93,7 @@
       <itunes:image href="https://i.ytimg.com/vi/SpdThU534VY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>p6R1I5tEai8</guid>
@@ -93,7 +108,7 @@
       <itunes:image href="https://i.ytimg.com/vi/p6R1I5tEai8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>QYwfgFVJN1Q</guid>
@@ -108,7 +123,7 @@
       <itunes:image href="https://i.ytimg.com/vi/QYwfgFVJN1Q/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>eW3HpLYSXgg</guid>
@@ -123,7 +138,7 @@
       <itunes:image href="https://i.ytimg.com/vi/eW3HpLYSXgg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>eChlSbcUK08</guid>
@@ -138,7 +153,7 @@
       <itunes:image href="https://i.ytimg.com/vi/eChlSbcUK08/maxresdefault.jpg"></itunes:image>
       <itunes:duration>54:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>-GODLWs7mJg</guid>
@@ -153,7 +168,7 @@
       <itunes:image href="https://i.ytimg.com/vi/-GODLWs7mJg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:08:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>zLn3cP8vYfs</guid>
@@ -168,7 +183,7 @@
       <itunes:image href="https://i.ytimg.com/vi/zLn3cP8vYfs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>LjIuNyjmGa8</guid>
@@ -183,7 +198,7 @@
       <itunes:image href="https://i.ytimg.com/vi/LjIuNyjmGa8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:07:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
     <item>
       <guid>8o99f2W6LpA</guid>
@@ -198,7 +213,7 @@
       <itunes:image href="https://i.ytimg.com/vi/8o99f2W6LpA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:15:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>FY9NtX0tIBg</guid>
@@ -213,7 +228,7 @@
       <itunes:image href="https://i.ytimg.com/vi/FY9NtX0tIBg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>QRrEcBEHBkM</guid>
@@ -228,7 +243,7 @@
       <itunes:image href="https://i.ytimg.com/vi/QRrEcBEHBkM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>--BJ8k1TqgY</guid>
@@ -244,7 +259,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/--BJ8k1TqgY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:23:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>R7kV0Vdcb2g</guid>
@@ -259,7 +274,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/R7kV0Vdcb2g/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
     </item>
     <item>
       <guid>l100bZZqo5I</guid>
@@ -274,7 +289,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/l100bZZqo5I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:23:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
     </item>
     <item>
       <guid>VC0uWnW0mO0</guid>
@@ -289,7 +304,7 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:image href="https://i.ytimg.com/vi/VC0uWnW0mO0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
     </item>
     <item>
       <guid>b44g9-YLGus</guid>
@@ -303,21 +318,6 @@ Ilyen és ehhez hasonló kérdésekről beszélget a műsorvezető, Pogátsa Zol
       <itunes:summary><![CDATA[Miből áll a grönlandi gazdaság? Milyen ásványkincsekre fáj a foga Trumpéknak? Mely amerikai oligarchák fektetnek ott be és bujtogatják Trumpot? Mit akar ott a bitcoin ipar? Milyen a fókaleves? Kántor Endre és Pogátsa Zoltán.]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/b44g9-YLGus/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:06:53</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
-    </item>
-    <item>
-      <guid>5sdvtZsSd68</guid>
-      <title>Kapitány István vs Nagy Márton ⎮🎙️POGI PODCAST</title>
-      <link>https://youtube.com/watch?v=5sdvtZsSd68</link>
-      <description>Kapitány István, a Shell volt globális elnökhelyettese lett a Tisza Párt gazdaságfejlesztési és energiaügyi miniszterjelöltje. Miben másak az elképzelései és a képességei, mint Nagy Márton fideszes gazdasági miniszternek? Kántor Endre és Pogátsa Zoltán értékelnek.</description>
-      <pubDate>Sun, 18 Jan 2026 23:21:51 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Pogi/5sdvtZsSd68.mp3" length="24451269" type="audio/mpeg"></enclosure>
-      <itunes:author>Pogátsa Zoltán</itunes:author>
-      <itunes:subtitle>Kapitány István vs Nagy Márton ⎮🎙️POGI PODCAST</itunes:subtitle>
-      <itunes:summary><![CDATA[Kapitány István, a Shell volt globális elnökhelyettese lett a Tisza Párt gazdaságfejlesztési és energiaügyi miniszterjelöltje. Miben másak az elképzelései és a képességei, mint Nagy Márton fideszes gazdasági miniszternek? Kántor Endre és Pogátsa Zoltán értékelnek.]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/5sdvtZsSd68/hqdefault.jpg"></itunes:image>
-      <itunes:duration>39:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>20</itunes:order>
     </item>

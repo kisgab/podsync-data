@@ -7,19 +7,39 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:12:54 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
-      <url>https://i.ytimg.com/vi/NTm5AJMy-WM/maxresdefault.jpg</url>
+      <url>https://i.ytimg.com/vi/Voqs5RSYsEE/maxresdefault.jpg</url>
       <title>Hardcore Zen: Uploads from Hardcore Zen</title>
       <link>https://youtube.com/playlist?list=UUav0RPngCHFrVUl8iGxnilw</link>
     </image>
     <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
     <itunes:subtitle>Hardcore Zen: Uploads from Hardcore Zen</itunes:subtitle>
     <itunes:summary><![CDATA[Hardcore Zen: Uploads from Hardcore Zen (2020-02-23 08:00:00 +0000 UTC)]]></itunes:summary>
-    <itunes:image href="https://i.ytimg.com/vi/NTm5AJMy-WM/maxresdefault.jpg"></itunes:image>
+    <itunes:image href="https://i.ytimg.com/vi/Voqs5RSYsEE/maxresdefault.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>Voqs5RSYsEE</guid>
+      <title>Meditation and Pain (or Zazen is Annoying)</title>
+      <link>https://youtube.com/watch?v=Voqs5RSYsEE</link>
+      <description>Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita</description>
+      <pubDate>Tue, 28 Apr 2026 15:01:01 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/Voqs5RSYsEE.mp3" length="18441117" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>Meditation and Pain (or Zazen is Annoying)</itunes:subtitle>
+      <itunes:summary><![CDATA[Donate by PayPal - http://hardcorezen.info/donate
+My Patreon page - https://www.patreon.com/user?u=4874189
+My blog  - http://hardcorezen.info
+Write me at bw@hardcorezen.info
+
+#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Voqs5RSYsEE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>25:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>NTm5AJMy-WM</guid>
       <title>Don&#39;t Criticize Buddhists!</title>
@@ -38,7 +58,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/NTm5AJMy-WM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>Ffswt3ZWfcM</guid>
@@ -58,7 +78,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/Ffswt3ZWfcM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>jiNxBIvnV3w</guid>
@@ -78,7 +98,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/jiNxBIvnV3w/maxresdefault.jpg"></itunes:image>
       <itunes:duration>22:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>65Fig6bWeso</guid>
@@ -98,7 +118,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/65Fig6bWeso/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>7Anh87S2d7c</guid>
@@ -118,7 +138,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/7Anh87S2d7c/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>uyPHTHXe1ys</guid>
@@ -138,7 +158,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/uyPHTHXe1ys/maxresdefault.jpg"></itunes:image>
       <itunes:duration>43:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>616Sy2ZoJM8</guid>
@@ -158,7 +178,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/616Sy2ZoJM8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>91FE8A6PEAQ</guid>
@@ -178,7 +198,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/91FE8A6PEAQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>qXXIWRcZJA8</guid>
@@ -197,26 +217,6 @@ Write me at bw@hardcorezen.info
 #zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/qXXIWRcZJA8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:54</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
-    </item>
-    <item>
-      <guid>YBrNB16I4xE</guid>
-      <title>Science Proves Buddhism! ...Or Does It?</title>
-      <link>https://youtube.com/watch?v=YBrNB16I4xE</link>
-      <description>Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita</description>
-      <pubDate>Wed, 11 Feb 2026 16:00:53 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/YBrNB16I4xE.mp3" length="15827349" type="audio/mpeg"></enclosure>
-      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
-      <itunes:subtitle>Science Proves Buddhism! ...Or Does It?</itunes:subtitle>
-      <itunes:summary><![CDATA[Donate by PayPal - http://hardcorezen.info/donate
-My Patreon page - https://www.patreon.com/user?u=4874189
-My blog  - http://hardcorezen.info
-Write me at bw@hardcorezen.info
-
-#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/YBrNB16I4xE/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>22:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>10</itunes:order>
     </item>

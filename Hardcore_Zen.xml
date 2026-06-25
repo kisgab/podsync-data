@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:44:38 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/Bx_-d9ccWT8/maxresdefault.jpg</url>
@@ -20,6 +20,27 @@
     <itunes:image href="https://i.ytimg.com/vi/Bx_-d9ccWT8/maxresdefault.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>Bx_-d9ccWT8</guid>
+      <title>What Are You Gonna Do With Enlightenment?</title>
+      <link>https://youtube.com/watch?v=Bx_-d9ccWT8</link>
+      <description>National Sacrifice Zone video - https://youtu.be/G36l3CMLPpo?si=PaestsQAgBNcB_O4&#xA;Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita</description>
+      <pubDate>Tue, 23 Jun 2026 15:00:31 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/Bx_-d9ccWT8.mp3" length="13718901" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>What Are You Gonna Do With Enlightenment?</itunes:subtitle>
+      <itunes:summary><![CDATA[National Sacrifice Zone video - https://youtu.be/G36l3CMLPpo?si=PaestsQAgBNcB_O4
+Donate by PayPal - http://hardcorezen.info/donate
+My Patreon page - https://www.patreon.com/user?u=4874189
+My blog  - http://hardcorezen.info
+Write me at bw@hardcorezen.info
+
+#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Bx_-d9ccWT8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>19:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>vf8s6GBaYCY</guid>
       <title>The Dharma of Disclosure Day</title>
@@ -198,26 +219,6 @@ Write me at bw@hardcorezen.info
       <itunes:duration>23:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>10</itunes:order>
-    </item>
-    <item>
-      <guid>Ffswt3ZWfcM</guid>
-      <title>Does Everyone Experience Karma The Same Way?</title>
-      <link>https://youtube.com/watch?v=Ffswt3ZWfcM</link>
-      <description>Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita</description>
-      <pubDate>Wed, 15 Apr 2026 15:00:26 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/Ffswt3ZWfcM.mp3" length="12035421" type="audio/mpeg"></enclosure>
-      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
-      <itunes:subtitle>Does Everyone Experience Karma The Same Way?</itunes:subtitle>
-      <itunes:summary><![CDATA[Donate by PayPal - http://hardcorezen.info/donate
-My Patreon page - https://www.patreon.com/user?u=4874189
-My blog  - http://hardcorezen.info
-Write me at bw@hardcorezen.info
-
-#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/Ffswt3ZWfcM/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>18:10</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
     </item>
   </channel>
 </rss>

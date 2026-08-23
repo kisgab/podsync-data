@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 08:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:48:50 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/4VYvYInEZQA/maxresdefault.jpg</url>
@@ -20,6 +20,21 @@
     <itunes:image href="https://i.ytimg.com/vi/4VYvYInEZQA/maxresdefault.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>4VYvYInEZQA</guid>
+      <title>Why Does Zen Care So Much About Ethics?</title>
+      <link>https://youtube.com/watch?v=4VYvYInEZQA</link>
+      <description> </description>
+      <pubDate>Tue, 18 Aug 2026 15:00:08 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/4VYvYInEZQA.mp3" length="14067261" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>Why Does Zen Care So Much About Ethics?</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/4VYvYInEZQA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>20:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>L4Y2UoVN42U</guid>
       <title>When a Dharma Talk is Not a Dharma Talk</title>
@@ -191,27 +206,6 @@ Write me at bw@hardcorezen.info
       <itunes:duration>19:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>10</itunes:order>
-    </item>
-    <item>
-      <guid>vf8s6GBaYCY</guid>
-      <title>The Dharma of Disclosure Day</title>
-      <link>https://youtube.com/watch?v=vf8s6GBaYCY</link>
-      <description>Aliens in the Lotus Sutra - https://youtu.be/DalTFpQ0Y0E?si=f0Dzjov47G4uMh1C&#xA;Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita</description>
-      <pubDate>Wed, 17 Jun 2026 15:00:17 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/vf8s6GBaYCY.mp3" length="16196973" type="audio/mpeg"></enclosure>
-      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
-      <itunes:subtitle>The Dharma of Disclosure Day</itunes:subtitle>
-      <itunes:summary><![CDATA[Aliens in the Lotus Sutra - https://youtu.be/DalTFpQ0Y0E?si=f0Dzjov47G4uMh1C
-Donate by PayPal - http://hardcorezen.info/donate
-My Patreon page - https://www.patreon.com/user?u=4874189
-My blog  - http://hardcorezen.info
-Write me at bw@hardcorezen.info
-
-#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/vf8s6GBaYCY/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>22:05</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
     </item>
   </channel>
 </rss>

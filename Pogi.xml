@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:02:49 +0000</lastBuildDate>
     <pubDate>Sun, 09 Oct 2011 21:11:57 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/p7PjcTBcET3FI0_RVx-52saSHBnqZnfC7-nHmkK8PQOxrP82C9Vjh-VsmN9VfchE1ppW0TN56A=s800-c-k-c0x00ffffff-no-rj</url>
@@ -21,6 +21,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>nf9lmXktvtQ</guid>
+      <title>Hálózat 4.: Robert Moses</title>
+      <link>https://youtube.com/watch?v=nf9lmXktvtQ</link>
+      <description>Ebben a sorozatban Jeffrey Epstein történetén keresztül járjuk be New Yorkot: azokat a helyeket és intézményeket, ahol a város elitjének élete, pénze és kapcsolatai összefonódnak. A mostani, negyedik részben Robert Moses figuráján keresztül nézzük meg, hogyan lett New York olyan, amilyennek ma ismerjük. Mosest senki nem választotta meg soha semmilyen tisztségre, mégis évtizedeken át  mindenki másnál jobban alakította a várost.</description>
+      <pubDate>Mon, 05 Oct 2026 06:14:49 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Pogi/nf9lmXktvtQ.mp3" length="40665261" type="audio/mpeg"></enclosure>
+      <itunes:author>Pogátsa Zoltán</itunes:author>
+      <itunes:subtitle>Hálózat 4.: Robert Moses</itunes:subtitle>
+      <itunes:summary><![CDATA[Ebben a sorozatban Jeffrey Epstein történetén keresztül járjuk be New Yorkot: azokat a helyeket és intézményeket, ahol a város elitjének élete, pénze és kapcsolatai összefonódnak. A mostani, negyedik részben Robert Moses figuráján keresztül nézzük meg, hogyan lett New York olyan, amilyennek ma ismerjük. Mosest senki nem választotta meg soha semmilyen tisztségre, mégis évtizedeken át  mindenki másnál jobban alakította a várost.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/nf9lmXktvtQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:12:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>UOoPBt-mLQM</guid>
       <title>Forbes Lista &#39;26: ki mennyire volt NER-es a TOP100-ban? ⎮🎙POGI PODCAST</title>
       <link>https://youtube.com/watch?v=UOoPBt-mLQM</link>
@@ -33,7 +48,7 @@
       <itunes:image href="https://i.ytimg.com/vi/UOoPBt-mLQM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>43:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>ycsnSjww4Zk</guid>
@@ -48,7 +63,7 @@
       <itunes:image href="https://i.ytimg.com/vi/ycsnSjww4Zk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>32:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>EXqMXj_jtAw</guid>
@@ -63,7 +78,7 @@
       <itunes:image href="https://i.ytimg.com/vi/EXqMXj_jtAw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>35:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>zzIUBC59fPQ</guid>
@@ -78,7 +93,7 @@
       <itunes:image href="https://i.ytimg.com/vi/zzIUBC59fPQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>-J3mVy1aLpA</guid>
@@ -93,7 +108,7 @@
       <itunes:image href="https://i.ytimg.com/vi/-J3mVy1aLpA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>42:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>pmTZY6284dE</guid>
@@ -108,7 +123,7 @@
       <itunes:image href="https://i.ytimg.com/vi/pmTZY6284dE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>26:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>UOoZVNuoz10</guid>
@@ -123,7 +138,7 @@
       <itunes:image href="https://i.ytimg.com/vi/UOoZVNuoz10/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:10:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>mGuA7A_Yr7I</guid>
@@ -138,7 +153,7 @@
       <itunes:image href="https://i.ytimg.com/vi/mGuA7A_Yr7I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>40:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>3MBwWxjlE6k</guid>
@@ -153,7 +168,7 @@
       <itunes:image href="https://i.ytimg.com/vi/3MBwWxjlE6k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>55:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item>
     <item>
       <guid>SHWot1Mm8j4</guid>
@@ -168,7 +183,7 @@
       <itunes:image href="https://i.ytimg.com/vi/SHWot1Mm8j4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>31:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item>
     <item>
       <guid>UI_ayiJbMlI</guid>
@@ -183,7 +198,7 @@
       <itunes:image href="https://i.ytimg.com/vi/UI_ayiJbMlI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>59:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
     </item>
     <item>
       <guid>l7zh1Ze0Q_M</guid>
@@ -198,7 +213,7 @@
       <itunes:image href="https://i.ytimg.com/vi/l7zh1Ze0Q_M/maxresdefault.jpg"></itunes:image>
       <itunes:duration>57:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>SQv2JdiR5AE</guid>
@@ -213,7 +228,7 @@
       <itunes:image href="https://i.ytimg.com/vi/SQv2JdiR5AE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:19:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>ldQtLUR1vqA</guid>
@@ -228,7 +243,7 @@
       <itunes:image href="https://i.ytimg.com/vi/ldQtLUR1vqA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:32:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>-IGT3gRm5JA</guid>
@@ -243,7 +258,7 @@
       <itunes:image href="https://i.ytimg.com/vi/-IGT3gRm5JA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>40:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>oK8QxcIqt0w</guid>
@@ -258,7 +273,7 @@
       <itunes:image href="https://i.ytimg.com/vi/oK8QxcIqt0w/maxresdefault.jpg"></itunes:image>
       <itunes:duration>45:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
     </item>
     <item>
       <guid>KkyWQ26TgUw</guid>
@@ -273,7 +288,7 @@
       <itunes:image href="https://i.ytimg.com/vi/KkyWQ26TgUw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:09:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
     </item>
     <item>
       <guid>84hxz2hq6ig</guid>
@@ -288,7 +303,7 @@
       <itunes:image href="https://i.ytimg.com/vi/84hxz2hq6ig/maxresdefault.jpg"></itunes:image>
       <itunes:duration>38:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
     </item>
     <item>
       <guid>t88pbuWOz7I</guid>
@@ -303,7 +318,7 @@
       <itunes:image href="https://i.ytimg.com/vi/t88pbuWOz7I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:13:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>20</itunes:order>
     </item>
     <item>
       <guid>M9nym1dtV54</guid>
@@ -318,7 +333,7 @@
       <itunes:image href="https://i.ytimg.com/vi/M9nym1dtV54/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:08:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>21</itunes:order>
     </item>
     <item>
       <guid>-rf0snnFZUw</guid>
@@ -333,7 +348,7 @@
       <itunes:image href="https://i.ytimg.com/vi/-rf0snnFZUw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:06:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>22</itunes:order>
     </item>
     <item>
       <guid>zS9KnjxF1_U</guid>
@@ -348,7 +363,7 @@
       <itunes:image href="https://i.ytimg.com/vi/zS9KnjxF1_U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:24:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>22</itunes:order>
+      <itunes:order>23</itunes:order>
     </item>
     <item>
       <guid>SpdThU534VY</guid>
@@ -363,7 +378,7 @@
       <itunes:image href="https://i.ytimg.com/vi/SpdThU534VY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>23</itunes:order>
+      <itunes:order>24</itunes:order>
     </item>
     <item>
       <guid>p6R1I5tEai8</guid>
@@ -377,21 +392,6 @@
       <itunes:summary><![CDATA[Lesz-e elszámoltatás? Lesz-e befektetés a humán tőkébe, a versenyképességbe? Miért sorsfordító, hogy mire lesz bátorsága Magyar Péter kormányának, és mire nem?]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/p6R1I5tEai8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>34:40</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>24</itunes:order>
-    </item>
-    <item>
-      <guid>QYwfgFVJN1Q</guid>
-      <title>Mi a választás gazdasági tétje? ⎮🎙POGI PODCAST</title>
-      <link>https://youtube.com/watch?v=QYwfgFVJN1Q</link>
-      <description>GDP, bérek, infláció, foglalkoztatottság, termelékenység, korrupció, uniós pénzek, nyugdíjak, egyenlőtlenségek, humán tőke. Mi a tét? Kire érdemes szavazni?</description>
-      <pubDate>Wed, 08 Apr 2026 15:52:06 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Pogi/QYwfgFVJN1Q.mp3" length="21495381" type="audio/mpeg"></enclosure>
-      <itunes:author>Pogátsa Zoltán</itunes:author>
-      <itunes:subtitle>Mi a választás gazdasági tétje? ⎮🎙POGI PODCAST</itunes:subtitle>
-      <itunes:summary><![CDATA[GDP, bérek, infláció, foglalkoztatottság, termelékenység, korrupció, uniós pénzek, nyugdíjak, egyenlőtlenségek, humán tőke. Mi a tét? Kire érdemes szavazni?]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/QYwfgFVJN1Q/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>34:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>25</itunes:order>
     </item>

@@ -7,19 +7,39 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:03:51 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
-      <url>https://i.ytimg.com/vi/kQlSSe51LNg/maxresdefault.jpg</url>
+      <url>https://i.ytimg.com/vi/zNRnGex4Jy4/maxresdefault.jpg</url>
       <title>Hardcore Zen: Uploads from Hardcore Zen</title>
       <link>https://youtube.com/playlist?list=UUav0RPngCHFrVUl8iGxnilw</link>
     </image>
     <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
     <itunes:subtitle>Hardcore Zen: Uploads from Hardcore Zen</itunes:subtitle>
     <itunes:summary><![CDATA[Hardcore Zen: Uploads from Hardcore Zen (2020-02-23 08:00:00 +0000 UTC)]]></itunes:summary>
-    <itunes:image href="https://i.ytimg.com/vi/kQlSSe51LNg/maxresdefault.jpg"></itunes:image>
+    <itunes:image href="https://i.ytimg.com/vi/zNRnGex4Jy4/maxresdefault.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>zNRnGex4Jy4</guid>
+      <title>Faith and Doubt</title>
+      <link>https://youtube.com/watch?v=zNRnGex4Jy4</link>
+      <description>Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma</description>
+      <pubDate>Tue, 13 Oct 2026 14:15:05 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/zNRnGex4Jy4.mp3" length="10533957" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>Faith and Doubt</itunes:subtitle>
+      <itunes:summary><![CDATA[Donate by PayPal - http://hardcorezen.info/donate
+My Patreon page - https://www.patreon.com/user?u=4874189
+My blog  - http://hardcorezen.info
+Write me at bw@hardcorezen.info
+
+#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zNRnGex4Jy4/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>15:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>kQlSSe51LNg</guid>
       <title>The Zen of Meat</title>
@@ -39,7 +59,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/kQlSSe51LNg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>u_KcrdxBEbU</guid>
@@ -59,7 +79,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/u_KcrdxBEbU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>esAWgqLHNHw</guid>
@@ -79,7 +99,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/esAWgqLHNHw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>ZvnYWflgbkA</guid>
@@ -99,7 +119,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/ZvnYWflgbkA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>end-Om6noQU</guid>
@@ -123,7 +143,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/end-Om6noQU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>26:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>5uWK5BvWFzw</guid>
@@ -138,7 +158,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/5uWK5BvWFzw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>0:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>2oHDnBh3mpE</guid>
@@ -158,7 +178,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/2oHDnBh3mpE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>VAo0VzKZs5g</guid>
@@ -178,7 +198,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/VAo0VzKZs5g/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>row_uAdFnJM</guid>
@@ -200,21 +220,6 @@ Write me at bw@hardcorezen.info
 #zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/row_uAdFnJM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:30</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
-    </item>
-    <item>
-      <guid>4VYvYInEZQA</guid>
-      <title>Why Does Zen Care So Much About Ethics?</title>
-      <link>https://youtube.com/watch?v=4VYvYInEZQA</link>
-      <description> </description>
-      <pubDate>Tue, 18 Aug 2026 15:00:08 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/4VYvYInEZQA.mp3" length="14067261" type="audio/mpeg"></enclosure>
-      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
-      <itunes:subtitle>Why Does Zen Care So Much About Ethics?</itunes:subtitle>
-      <itunes:summary></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/4VYvYInEZQA/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>20:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>10</itunes:order>
     </item>

@@ -7,19 +7,48 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:04:23 +0000</lastBuildDate>
     <pubDate>Sun, 23 Feb 2020 08:00:00 +0000</pubDate>
     <image>
-      <url>https://i.ytimg.com/vi/KFObmRZFBsw/maxresdefault.jpg</url>
+      <url>https://i.ytimg.com/vi/k-Q986PQc14/maxresdefault.jpg</url>
       <title>Hardcore Zen: Uploads from Hardcore Zen</title>
       <link>https://youtube.com/playlist?list=UUav0RPngCHFrVUl8iGxnilw</link>
     </image>
     <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
     <itunes:subtitle>Hardcore Zen: Uploads from Hardcore Zen</itunes:subtitle>
     <itunes:summary><![CDATA[Hardcore Zen: Uploads from Hardcore Zen (2020-02-23 08:00:00 +0000 UTC)]]></itunes:summary>
-    <itunes:image href="https://i.ytimg.com/vi/KFObmRZFBsw/maxresdefault.jpg"></itunes:image>
+    <itunes:image href="https://i.ytimg.com/vi/k-Q986PQc14/maxresdefault.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>k-Q986PQc14</guid>
+      <title>Who Was Kodo Sawaki?</title>
+      <link>https://youtube.com/watch?v=k-Q986PQc14</link>
+      <description>More about Kodo Sawaki:&#xA; https://antaiji.org/archives/eng/200801.shtml&#xA;https://youtu.be/u-6aCUSSB4E&#xA;https://youtu.be/-fs6Csl_jec&#xA;https://youtu.be/ivZrnI4mU28&#xA;https://youtu.be/b2Cc3rwJ1Gw&#xA;https://youtu.be/wC0sAsEUOv8&#xA;https://youtu.be/8MahQT5wmZc&#xA;&#xA;Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma</description>
+      <pubDate>Tue, 17 Nov 2026 15:15:10 +0000</pubDate>
+      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/k-Q986PQc14.mp3" length="17639157" type="audio/mpeg"></enclosure>
+      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
+      <itunes:subtitle>Who Was Kodo Sawaki?</itunes:subtitle>
+      <itunes:summary><![CDATA[More about Kodo Sawaki:
+ https://antaiji.org/archives/eng/200801.shtml
+https://youtu.be/u-6aCUSSB4E
+https://youtu.be/-fs6Csl_jec
+https://youtu.be/ivZrnI4mU28
+https://youtu.be/b2Cc3rwJ1Gw
+https://youtu.be/wC0sAsEUOv8
+https://youtu.be/8MahQT5wmZc
+
+Donate by PayPal - http://hardcorezen.info/donate
+My Patreon page - https://www.patreon.com/user?u=4874189
+My blog  - http://hardcorezen.info
+Write me at bw@hardcorezen.info
+
+#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/k-Q986PQc14/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>26:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>KFObmRZFBsw</guid>
       <title>Five Hours On DMT???</title>
@@ -39,7 +68,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/KFObmRZFBsw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>_7SDWQTPEc4</guid>
@@ -59,7 +88,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/_7SDWQTPEc4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>7NBNsbXF_ko</guid>
@@ -79,7 +108,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/7NBNsbXF_ko/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>elto5mdbbrk</guid>
@@ -99,7 +128,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/elto5mdbbrk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
     <item>
       <guid>zNRnGex4Jy4</guid>
@@ -119,7 +148,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/zNRnGex4Jy4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>15:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>kQlSSe51LNg</guid>
@@ -140,7 +169,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/kQlSSe51LNg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>23:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
     </item>
     <item>
       <guid>u_KcrdxBEbU</guid>
@@ -160,7 +189,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/u_KcrdxBEbU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
     </item>
     <item>
       <guid>esAWgqLHNHw</guid>
@@ -180,7 +209,7 @@ Write me at bw@hardcorezen.info
       <itunes:image href="https://i.ytimg.com/vi/esAWgqLHNHw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
     </item>
     <item>
       <guid>ZvnYWflgbkA</guid>
@@ -199,30 +228,6 @@ Write me at bw@hardcorezen.info
 #zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZvnYWflgbkA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:05</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>9</itunes:order>
-    </item>
-    <item>
-      <guid>end-Om6noQU</guid>
-      <title>The Dark Side of Mindfulness</title>
-      <link>https://youtube.com/watch?v=end-Om6noQU</link>
-      <description>Atlantic article - https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/?gift=ZSO8-QoU1-1L0duyI2Sx0pfZ7ROzgGtHClGSm60KGiQ&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share&#xA;My video from 5 years ago - https://youtu.be/hF0iUD_uLK8?si=gjh6Uz7nzUQG6U2e&#xA;My 2014 blog - http://hardcorezen.info/zen-freak-outs/2865&#xA;&#xA;Donate by PayPal - http://hardcorezen.info/donate&#xA;My Patreon page - https://www.patreon.com/user?u=4874189&#xA;My blog  - http://hardcorezen.info&#xA;Write me at bw@hardcorezen.info&#xA;&#xA;#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma</description>
-      <pubDate>Tue, 15 Sep 2026 14:30:07 +0000</pubDate>
-      <enclosure url="http://192.168.2.133:8901/Hardcore_Zen/end-Om6noQU.mp3" length="18244365" type="audio/mpeg"></enclosure>
-      <itunes:author>Hardcore Zen: Uploads from Hardcore Zen</itunes:author>
-      <itunes:subtitle>The Dark Side of Mindfulness</itunes:subtitle>
-      <itunes:summary><![CDATA[Atlantic article - https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/?gift=ZSO8-QoU1-1L0duyI2Sx0pfZ7ROzgGtHClGSm60KGiQ&utm_source=copy-link&utm_medium=social&utm_campaign=share
-My video from 5 years ago - https://youtu.be/hF0iUD_uLK8?si=gjh6Uz7nzUQG6U2e
-My 2014 blog - http://hardcorezen.info/zen-freak-outs/2865
-
-Donate by PayPal - http://hardcorezen.info/donate
-My Patreon page - https://www.patreon.com/user?u=4874189
-My blog  - http://hardcorezen.info
-Write me at bw@hardcorezen.info
-
-#zen #Buddhism #teachers #oneness #Zen #Buddhism #Buddha #advaita #meditation #dharma]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/end-Om6noQU/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>26:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>10</itunes:order>
     </item>
